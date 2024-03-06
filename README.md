@@ -8,7 +8,6 @@ This application allows users to keep track of their income and expenses and dis
 
 ## Technologies:
 - HTML
-- CSS
 - Bootrap
 - JavaScript
 
